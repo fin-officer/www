@@ -165,3 +165,19 @@ the data models for the "Functionality for Month and Annual Report for One Perso
 - tax_paid: float (total tax paid by the company)
 
 Note: You can further customize and add more fields to these data models based on the specific requirements of your application. Additionally, you may consider defining relationships between data models if needed, such as a one-to-one relationship between ReportData and the other data models.
+
+
+## Environment
+
++ Docker
++ docker-compose.yaml
+
+  
+In this docker-compose.yml, two services are defined: app and db. The app service builds the Docker image using the Dockerfile in the current directory. The volumes line specifies that the app folder should be mounted to the /app folder in the container. The app is mapped to port 8000.
+
+The db service creates a Postgres database instance using the official Postgres Docker image. The Postgres container is given the environment variables for the Postgres user, password, and database. 
+
+You can initiate the services by using the command `docker-compose up --build`.
+
+
+
