@@ -73,3 +73,51 @@ Integration with accounting software: The software should integrate with popular
 
 The pricing for corporations typically depends on the size of the company, the number of users, and the complexity of features required.
 Pricing models can include tier-based plans or customized enterprise-level solutions. Prices may range from a few hundred dollars per month for smaller corporations to thousands of dollars per month for larger enterprises. Contracts might also include additional services like implementation support, training, and dedicated account management.
+
+
+
+
+## DOC
+
+MVP specification for building functionality in the Command and Query Responsibility Segregation (CQRS) pattern using Python classes:
+
+### 1. Command Handler Class:
+- Responsible for handling write operations or commands.
+- Should have methods for each specific command.
+- Receives the command as the input parameter and processes it accordingly.
+- Performs business logic and updates the appropriate data models or services.
+
+### 2. Query Handler Class:
+- Responsible for handling read operations or queries.
+- Should have methods for each specific query.
+- Receives the query as the input parameter and retrieves the required data.
+- Performs any necessary filtering, sorting, or aggregation on the data.
+
+### 3. Command Model:
+- Represents the data model for write operations or commands.
+- Includes attributes that define the necessary fields for a command.
+- Can have methods to validate and transform the data before persisting it.
+
+### 4. Query Model:
+- Represents the data model for read operations or queries.
+- Includes attributes that define the required fields for a query response.
+- Can include methods to format or transform the data before returning it.
+
+### 5. Command Bus:
+- Responsible for routing commands to the appropriate command handler.
+- Maps the incoming command to the corresponding handler method based on the command type.
+- Initiates the command processing and updates the data accordingly.
+
+### 6. Query Bus:
+- Responsible for routing queries to the appropriate query handler.
+- Maps the incoming query to the corresponding handler method based on the query type.
+- Executes the query processing and returns the requested data.
+
+### 7. Repository:
+- Responsible for persisting and retrieving data from the underlying storage.
+- Provides methods to save, update, delete, and retrieve data models.
+- Can implement an ORM (Object-Relational Mapping) for interacting with the database.
+
+These classes form the foundation of the CQRS pattern implementation in Python and allow separation of write operations from read operations, improving scalability and performance.
+
+
