@@ -181,3 +181,14 @@ You can initiate the services by using the command `docker-compose up --build`.
 
 
 
+## npm
+
+npm install axios
+npm install vue-router
+
+install Vue Router if it's not already installed, these pages use Vue Router for navigation.
+
+Please remember to replace `'/api/login'` and `'/api/subscribe'` with your actual API endpoints.
+
+Keep in mind this is just basic functionality, you'll want to handle API responses properly by providing user feedback and error handling.
+
