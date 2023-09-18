@@ -194,3 +194,13 @@ Please remember to replace `'/api/login'` and `'/api/subscribe'` with your actua
 
 Keep in mind this is just basic functionality, you'll want to handle API responses properly by providing user feedback and error handling.
 
+
+
+## Install
+
+```bash
+./install.sh
+```
+
+This script updates the package manager and installs Node.js, npm, Docker, and Docker Compose. It then clones the repository, sets up the Docker containers, installs dependencies for the Vue.js application, and starts the application. Finally, it outputs a success message once everything is set up and running.
+
