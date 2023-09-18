@@ -16,17 +16,16 @@ Integration with accounting software: The software should integrate with popular
 
 ```mermaid
 gantt
-dateFormat  YYYY-MM-DD
-title Two-Year Roadmap
-
-section Year 1: Integration and Consolidity
-Technical Integration: 2023-01-01, 182d
-Strategy Implementation: 2023-07-01, 91d
-Initial Launches: 2023-10-01, 91d
-section Year 2: Expansion and Improvement
-Full Launch: 2024-01-01, 182d
-Implement AI Enhancements: 2024-07-01, 91d
-Review and Future Strategy: 2024-10-01, 91d
+    dateFormat  YYYY-MM-DD
+    title Two-Year Roadmap
+    section Year 1 Integration and Consolidity
+    Technical Integration: 2023-01-01, 182d
+    Strategy Implementation: 2023-07-01, 91d
+    Initial Launches: 2023-10-01, 91d
+    section Year 2 Expansion and Improvement
+    Full Launch: 2024-01-01, 182d
+    Implement AI Enhancements: 2024-07-01, 91d
+    Review and Future Strategy: 2024-10-01, 91d
 ```
 
 
