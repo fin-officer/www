@@ -14,6 +14,10 @@ Integration with accounting software: The software should integrate with popular
 
 ## FinOfficer.com
 
+
+![image](https://github.com/fin-officer/www/assets/5669657/9f438cb0-0c08-41af-885a-ecf0051140f4)
+
+
 ### Motto
 
 "Empowering Financial Freedom."
