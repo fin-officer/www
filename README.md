@@ -121,3 +121,47 @@ MVP specification for building functionality in the Command and Query Responsibi
 These classes form the foundation of the CQRS pattern implementation in Python and allow separation of write operations from read operations, improving scalability and performance.
 
 
+
+## Data Models
+
+the data models for the "Functionality for Month and Annual Report for One Person Limited Companies":
+
+### 1. ReportData:
+
+- report_id: int (auto-generated unique report identifier)
+- company_name: str (name of the company)
+- report_type: str (type of report, e.g., monthly or annual)
+- report_year: int (year for the report)
+- report_month: int (month for the report)
+- income_statement: IncomeStatement (income statement data)
+- balance_sheet: BalanceSheet (balance sheet data)
+- cash_flow_statement: CashFlowStatement (cash flow statement data)
+- tax_report: TaxReport (tax report data)
+
+
+### 2. IncomeStatement:
+
+- revenue: float (total revenue in the report period)
+- expenses: float (total expenses in the report period)
+- net_income: float (net income calculated from revenue and expenses)
+
+### 3. BalanceSheet:
+   
+- assets: float (total assets of the company)
+- liabilities: float (total liabilities of the company)
+- equity: float (total equity of the company)
+
+### 4. CashFlowStatement:
+   
+- operating_cash_flow: float (cash flow from operating activities)
+- investing_cash_flow: float (cash flow from investing activities)
+- financing_cash_flow: float (cash flow from financing activities)
+- net_cash_flow: float (net cash flow calculated from all activities)
+
+### 5. TaxReport:
+   
+- tax_expenses: float (total tax expenses for the company)
+- tax_liabilities: float (total tax liabilities for the company)
+- tax_paid: float (total tax paid by the company)
+
+Note: You can further customize and add more fields to these data models based on the specific requirements of your application. Additionally, you may consider defining relationships between data models if needed, such as a one-to-one relationship between ReportData and the other data models.
