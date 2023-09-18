@@ -14,6 +14,29 @@ Integration with accounting software: The software should integrate with popular
 
 ## FinOfficer.com
 
+Strategic roadmap, starting in November 2023.
+
+```mermaid
+gantt
+   dateFormat  YYYY-MM-DD
+   title Two-Year Strategic Roadmap
+   
+   section Year 1 Building Foundation
+   Innovation & Continual Improvement: 2023-11-01, 182d
+   Customer-Centric Approach: 2023-11-01, 365d
+   Global Outreach & Localization: 2024-01-01, 365d
+   Partnership & Collaboration: 2024-03-01, 182d
+   
+   section Year 2 Expansion
+   Education & Training: 2024-11-01, 182d
+   Data Security & Compliance: 2024-11-01, 365d
+   Deepening Customer-Centric Approach: 2025-02-01, 182d
+   Extend Global Outreach & Localization: 2025-03-01, 365d
+   Strengthen Partnership & Collaboration: 2025-05-01, 182d
+```
+
+The strategic actions start from November 2023 and stretch over the span of two years. Please note that the dates and duration are adjustable, based on your timelines.
+
 
 ![image](https://github.com/fin-officer/www/assets/5669657/9f438cb0-0c08-41af-885a-ecf0051140f4)
 [The Roles of Mission, Vision, and Values – Principles of Management](https://open.lib.umn.edu/principlesmanagement/chapter/4-3-the-roles-of-mission-vision-and-values/)
@@ -37,10 +60,58 @@ Integration with accounting software: The software should integrate with popular
 Our mission is to provide businesses of all sizes with an intuitive, comprehensive, and reliable financial management solution. 
 We strive to simplify financial operations, promote transparency, and automate processes, enabling our clients to focus on what truly matters - growing their business.
 
+##### Mission statements, by answering question: Who we are? What we value?
+
+We are FinOfficer SaaS, a dedicated and pioneering provider of cloud-based financial management solutions. 
+We believe in the ethos of simplifying complex financial operations through innovation and technology. 
+We value our customers' ambitions and uphold their success as our most crucial achievement.
+
+We value integrity, maintaining transparency, trustworthiness and ethical practices in every interaction. 
+We champion innovation, consistently pushing boundaries to enhance our offerings and user experience. 
+We hold quality and excellence at the core of our services, striving to deliver high-standard and efficient solutions.
+
+More than anything, we value relationships - be it with our customers, partners, or employees. 
+We believe in the power of collaborative growth and mutual success. 
+At FinOfficer SaaS, we empower businesses to take control of their finances, enabling them to focus on their growth and success - because we grow when our customers grow.
 
 ### Vision
 
 Our vision is to be the foremost cloud-based financial management solution in the global marketplace, recognized for excellence, innovation, and the significant value we bring to businesses, shareholders, and communities. We aim to create a world where effective financial management is accessible, understandable, and manageable for everyone.
+
+
+##### Vision statement, by answering question: what we want to become?
+
+At FinOfficer SaaS, we aspire to become the global trailblazer in the world of cloud-based financial management solutions. 
+We envision a future in which our industry-leading software is recognized for transforming financial operations of businesses of all sizes across the globe. 
+We aim to set new standards of excellence and drive modernization in the sector.
+
+Our goal is to create an accessible world where effective financial management is not a privilege, but a standard met for every business. 
+We want our platform to be synonymous with reliable financial management, trusted by a global clientele, and contributing to the financial health and stability of businesses worldwide.
+
+In essence, we strive to become an integral driver of success stories, helping businesses thrive and grow with streamlined, efficient, and innovative solutions.
+
+### Strategy
+
++ How we will achieve our vision?
+
+**Our Strategy:**
+
+**Innovation and Continual Improvement:** We will stay vigilant to the latest technological advancements and continually refine and enhance our software to ensure our clients always have access to the most advanced, efficient, and reliable financial management solution.
+
+**Customer-Centric Approach:** We will strive to understand the unique needs and pain points of our customers and develop tailored solutions that cater to their specific requirements. This includes investing in a strong customer support team that addresses queries and concerns promptly.
+
+**Global Outreach and Localization:** Efforts will be undertaken to expand our presence in new markets across the globe. Localized strategies and customizations will be developed to cater to regional requirements, ensuring a seamless user experience for all our customers, regardless of geography.
+
+**Partnership and Collaboration:** We will actively pursue strategic partnerships and collaborations that complement our offerings and extend our reach. This includes alignments with other tech companies, accounting software providers, and finance consultants.
+
+**Education and Training:**
+We will provide comprehensive training and educational resources to our customers, enabling them to leverage our software fully and effectively. This investment in our users' success will build loyalty and promote word-of-mouth referrals.
+
+**Data Security and Compliance:** Rigorous measures will be taken to ensure data security and compliance with international standards and regulations. Trust in our platform's safety will be key to attracting new customers and retaining existing ones.
+
+By adopting this multi-pronged and dynamic strategy, we aim to continually drive towards our vision of becoming the go-to global provider of cloud-based financial management solutions.
+
+
 
 ### Values
 
