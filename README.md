@@ -16,6 +16,7 @@ Integration with accounting software: The software should integrate with popular
 
 
 ![image](https://github.com/fin-officer/www/assets/5669657/9f438cb0-0c08-41af-885a-ecf0051140f4)
+[The Roles of Mission, Vision, and Values – Principles of Management](https://open.lib.umn.edu/principlesmanagement/chapter/4-3-the-roles-of-mission-vision-and-values/)
 
 
 ### Motto
