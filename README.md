@@ -80,6 +80,8 @@ Pricing models can include tier-based plans or customized enterprise-level solut
 ## DOC
 
 MVP specification for building functionality in the Command and Query Responsibility Segregation (CQRS) pattern using Python classes:
+[CQRS pattern - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+
 
 ### 1. Command Handler Class:
 - Responsible for handling write operations or commands.
