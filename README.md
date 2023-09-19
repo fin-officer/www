@@ -28,7 +28,7 @@ Customers who run daily businesses and are too busy to handle accounting tasks l
 
 
 ## FinOfficer
-**Encrypted Finance**
+**Encrypted Finances**
 
 
 FinOfficer refers to a financial officer in an organization, such as a chief financial officer (CFO) or financial manager.
