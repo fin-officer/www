@@ -26,6 +26,21 @@ Customers who run daily businesses and are too busy to handle accounting tasks l
 8. Time and cost savings,
 9. Peace of Mind - knowing that their financial administration is handled securely and efficiently.
 
+
+FinOfficer refers to a financial officer in an organization, such as a chief financial officer (CFO) or financial manager.
+FinOfficer Saas PLatform is responsible for financial operations such as financial planning, reporting, analysis.
+We provide an encrypted secure layer for exchanging transactions, data, contracts, documents, invoices.
+
+
+keywords:
+
+secure document exchange
+Safe exchange
+Guarded exchange
+Protected exchange
+Encrypted exchange
+
+
 Mission Statement: 
 
 To provide simplified, secure and efficient financial management tools and solutions that empower businesses to focus on growth while we handle their accounting needs.
