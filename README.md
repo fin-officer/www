@@ -44,7 +44,10 @@ Safe exchange
 Guarded exchange
 Protected exchange
 Encrypted exchange
-
+Encrypted Finances
+Protected Transactions
+Secure document transfer
+Guarded financial transactions
 
 Mission Statement: 
 
