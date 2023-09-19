@@ -46,11 +46,11 @@ The strategic actions start from November 2023 and stretch over the span of two 
 
 ### Motto
 
-"Empowering Financial Freedom."
+"Empowering Financial Security."
 
 ### Tagline
 
-"FinOfficer SaaS - Simplifying Finance, Amplifying Success."
+"FinOfficer SaaS - Simplifying Finance, Amplifying Security."
 
 ### Quote
 
