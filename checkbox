@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Checklist</title>
+</head>
+
+<body>
+  <form>
+    <p><input type="checkbox" id="item1" name="item1"> Item 1</p>
+    <p><input type="checkbox" id="item2" name="item2"> Item 2 </p>
+    <p><input type="checkbox" id="item3" name="item3"> Item 3 </p>
+    <button id="downloadHTML" type="button">Download HTML</button>
+  </form>
+
+  <script>
+    document.getElementById("downloadHTML").addEventListener("click", function() {
+      
+      var checkboxes = document.querySelectorAll('input[type="checkbox"]');
+      var items = Array.from(checkboxes).map(function(checkbox) {
+        return checkbox.id;
+      });
+      
+      var htmlContent = ""
+      
+      items.forEach(function(item) {
+        htmlContent += `<p><input type="checkbox" id="${item}" name="${item}" ${document.getElementById(item).checked ? "checked" : ""}> Item </p>\n`;
+      });
+
+            
+      var blob = new Blob([saveSectionsToVariables(htmlContent)], {type: "text/html"});
+      var url = URL.createObjectURL(blob);
+
+      // Create a link and trigger a click to download
+      var a = document.createElement("a");
+      a.href = url;
+      a.download = "checklist.html";
+      a.click();
+    });
+    
+    
+    function saveSectionsToVariables(form) {
+      var scriptContent = document.querySelector('script').innerHTML;
+      var formContent = document.querySelector('form').innerHTML;
+      var bodyContent = document.body.innerHTML;
+      var headContent = document.head.innerHTML;
+      var documentContent = document.documentElement.outerHTML;
+      
+      console.log("html Content:");
+      console.log(htmlContent);
+      
+      return `<!DOCTYPE html>\n<html>\n<head>\n<title>Checklist</title>\n <form>\n ${form} \n</form> \n<script>\n ${scriptContent} \n</script> \n\n</body>\n</html>`;            
+    }
+
+
+  </script>
+
+</body>
+
+</html>
