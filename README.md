@@ -32,7 +32,7 @@ Customers who run daily businesses and are too busy to handle accounting tasks l
 
 
 FinOfficer refers to a financial officer in an organization, such as a chief financial officer (CFO) or financial manager.
-FinOfficer Saas PLatform is responsible for financial operations such as financial planning, reporting, analysis.
+FinOfficer Saas platform is responsible for financial operations such as financial planning, reporting, analysis.
 We provide an encrypted secure layer for exchanging transactions, data, contracts, documents, invoices.
 
 
