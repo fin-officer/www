@@ -1,6 +1,6 @@
-# www
-www.finofficer.com
+# [FinOfficer - Encrypted Finances](https://www.finofficer.com/)
 
+![Fin_02_Transparetn ](https://github.com/fin-officer/www/assets/5669657/baac0cdb-9d7f-4764-b6d0-d85046e2a605)
 
 
 FinOfficer refers to a financial officer in an organization, such as a Chief Financial Officer (CFO) or a Financial Manager.
@@ -621,6 +621,15 @@ officer
 <meta name="description" content="Understand how FinOfficer SaaS can integrate with your business through real-world use cases. Discover how our financial management tool has solved complex financial challenges and delivered substantial efficiency to businesses.">
 <meta name="keywords" content="Use Cases, Real-world examples, Business Integration, Financial Challenges, Efficiency, Financial management tool">
 ```
+
+
+--- 
+
++ [edit](https://github.com/fin-officer/www/edit/main/README.md)
+  
+---
+
+![Fin_03 mockup](https://github.com/fin-officer/www/assets/5669657/238d192b-3ad7-4c2e-a285-c7f828da7238)
 
 
 
