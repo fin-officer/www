@@ -10,6 +10,8 @@ The FinOfficer *Saas is responsible for managing the financial operations and st
 *SaaS stands for Software as a Service. It is a cloud-based software delivery model where software is hosted and provided by a service provider over the internet. SaaS eliminates the need for organizations to install and maintain software on their own hardware, and instead allows them to access and use software applications online on a subscription basis.
 
 
+![obraz](https://github.com/fin-officer/www/assets/5669657/14eee780-b9eb-4f83-956b-d5053e95dff4)
+
 Integration with accounting software: The software should integrate with popular accounting software, such as QuickBooks or Xero, to streamline data transfer and report generation.
 
 ## Needs
@@ -25,6 +27,7 @@ Customers who run daily businesses and are too busy to handle accounting tasks l
 7. Simplified tax preparation,
 8. Time and cost savings,
 9. Peace of Mind - knowing that their financial administration is handled securely and efficiently.
+
 
 
 ## FinOfficer
