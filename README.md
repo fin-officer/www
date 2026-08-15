@@ -1,3 +1,6 @@
-# 🌐 FinOfficer Automation — Landing Page (`www`)
+# fin-officer — Projects Hub (Single-File index.php Engine)
 
-Official landing page and interactive projects dashboard for **fin-officer**.
+Pure single-file PHP landing page and ecosystem dependency hub for .
+
+## Quickstart
+
